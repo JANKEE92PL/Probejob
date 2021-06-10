@@ -2,7 +2,7 @@ body {
   z-index: -10;
   height: 100vh;
   width: auto;
-  background-image: url(/assets/img/Hero.png);
+  background-image: url(../assets/img/Hero.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
