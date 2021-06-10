@@ -1,0 +1,27 @@
+body {
+  z-index: -10;
+  height: 100vh;
+  width: auto;
+  background-image: url(/assets/img/Hero.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#navi {
+  width: 50%;
+  background-color: rgba(177, 177, 177, 0.8);
+  border-radius: 25px;
+}
+#select {
+    border: none;
+    border-bottom: 1px solid rgba(177, 177, 177, 0.8);
+}
+
+
+@media screen and (max-width:992px) {
+  #hero {
+    background-color: rgba(177, 177, 177, 0.8);
+    border-radius: 25px;
+  }
+}
