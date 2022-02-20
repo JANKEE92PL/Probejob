@@ -1,8 +1,4 @@
-# Probejob
-targets:
+## landingpage
 
-* Hover-Effekte und eine responsive Umsetzung.
 
-* In der Regel gibt es bei uns mindestens 3 Layouts (breakpoints).
-
-* keine separaten Layouts.
+[Landingpage deployment](https://jankee92pl.github.io/Probejob/)
